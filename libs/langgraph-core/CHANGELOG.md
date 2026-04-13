@@ -1,5 +1,11 @@
 # @langchain/langgraph
 
+## 1.2.9
+
+### Patch Changes
+
+- [#2311](https://github.com/langchain-ai/langgraphjs/pull/2311) [`b7c196b`](https://github.com/langchain-ai/langgraphjs/commit/b7c196b2142fb888dfcd9ceb1dfb4365d803c8b6) Thanks [@open-swe](https://github.com/apps/open-swe)! - fix: export missing types for typescript 6.0 declaration file compatibility
+
 ## 1.2.8
 
 ### Patch Changes
